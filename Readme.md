@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Anton Materanski](https://up.htmlacademy.ru/htmlcss/31/user/1810811).
-* Наставник: `Неизвестно`.
+* Наставник: [Лиза Пак](https://up.htmlacademy.ru/profession/frontender/11/htmlcss/user/5608).
 
 ---
 
